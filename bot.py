@@ -6,8 +6,8 @@ from aiogram.enums import ParseMode
 import asyncio
 
 # Настройки
-BOT_TOKEN = "7850687351:AAFQB9Nb-08_8foLIJ6-rzDRAasWHEb0xjU"
-ADMIN_USERNAME = "@ferma_dv25"  # Ваш аккаунт для уведомлений
+BOT_TOKEN = "**********************************************"
+ADMIN_USERNAME = "78689787876"  # Ваш аккаунт для уведомлений
 
 bot = Bot(token=BOT_TOKEN, parse_mode=ParseMode.HTML)
 dp = Dispatcher()
